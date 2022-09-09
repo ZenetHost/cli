@@ -1,0 +1,22 @@
+{
+  "name": "zenet",
+  "version": "0.0.2",
+  "type": "module",
+  "description": "Simple tool that can create basic node.js scripts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "easyfivem": "index.ts"
+  },
+  "author": "P33t.net, Zenet.Host",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1",
+    "cli-select": "^1.1.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.2"
+  }
+}
