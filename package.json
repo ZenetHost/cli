@@ -1,6 +1,6 @@
 {
   "name": "zenet",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "description": "Simple tool that can create basic node.js scripts",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "bin": {
-    "easyfivem": "index.ts"
+    "zenet": "index.js"
   },
   "author": "P33t.net, Zenet.Host",
   "license": "ISC",
